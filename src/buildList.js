@@ -35,8 +35,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+      "http://www.ltswap.club/swap/lt_tokenlist/LTO.svg",
+    keywords: ["ltswap", "default"],
     tokens: [
       ...mainnet,
       ...ropsten,
